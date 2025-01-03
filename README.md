@@ -12,11 +12,11 @@ Despliegue en Docker y orquestación opcional con Kubernetes.
 Infraestructura local y en la nube gratuita (AWS Free Tier o GCP Free Tier).
 
 ### Características
-Usuarios y Autenticación
+- Usuarios y Autenticación
 
-Registro e inicio de sesión con JWT.
-Autenticación con OAuth2 (Google/Facebook).
-Gestión de Tareas
+-- Registro e inicio de sesión con JWT.
+-- Autenticación con OAuth2 (Google/Facebook).
+-- Gestión de Tareas
 
 CRUD de tareas.
 Asignación de tareas a usuarios.
